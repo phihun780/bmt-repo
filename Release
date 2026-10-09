@@ -1,0 +1,17 @@
+Origin: BMT Repo
+Label: BMT
+Suite: stable
+Version: 1.0
+Codename: ios
+Date: Fri, 09 Oct 2026 08:31:01 UTC
+Architectures: iphoneos-arm64
+Components: main
+Description: Nguồn tweak BMT cho CarPlay
+MD5Sum:
+ a9afdcc773257a0511de8e54eeb2d426 721 Packages
+ 8f742c534b10e5057d82d9040f731dd9 480 Packages.gz
+ 1dd498007d251da76293791ed8130afc 551 Packages.bz2
+SHA256:
+ cee2f7bdaa9ebaeceb83080d59b6b6d8f47313b1dbcb6d40d8150b08bd3b9dae 721 Packages
+ e8e6eddafd2cf5356ae20e7d55f80a94acca62273f19b64fad3574a316708787 480 Packages.gz
+ 1440749ac7db7194f55ba51ce15d098766166cf867424c07867d26153a77fa9e 551 Packages.bz2
