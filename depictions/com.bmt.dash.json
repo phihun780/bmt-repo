@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**BMT** là dashboard nhiều app cho CarPlay.\n\n- Chạy app bất kỳ trên màn hình CarPlay\n- Chia 2 ô: 50/50, 60/40, 70/30 hoặc toàn màn hình\n- Chọn app ngay trên màn hình xe, phóng to từng ô\n- **Giả lập CarPlay ngay trên iPhone** để thử không cần xe\n- App BMT ngoài màn hình chính và icon BMT trên CarPlay\n\nCài đặt: *Settings → BMT*."
+          "markdown": "**BMT** là dashboard nhiều app cho CarPlay.\n\n- Chạy app bất kỳ trên màn hình CarPlay\n- Chia 2 ô: 50/50, 60/40, 70/30 hoặc toàn màn hình\n- Chọn app ngay trên màn hình xe, phóng to từng ô\n- Cùng một giao diện trên iPhone và CarPlay, tự co giãn theo màn hình\n- App BMT ngoài màn hình chính và icon BMT trên CarPlay\n\nCài đặt: *Settings → BMT*."
         },
         {
           "class": "DepictionSeparatorView"
@@ -18,7 +18,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Phiên bản",
-          "text": "0.5.0"
+          "text": "0.6.0"
         },
         {
           "class": "DepictionTableTextView",
@@ -33,7 +33,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**0.5.0**\n- App BMT gọn hơn: chọn bố cục trước, rồi chạm dấu + giữa ô để thêm app\n- Kiểu hiển thị cho từng app: Auto / iPhone / iPad (Settings → BMT)\n- BMT có icon trong Settings\n- Dashboard tự co giãn theo màn hình của từng xe\n\n**0.4.1**\n- Sửa lỗi SpringBoard crash vài giây sau khi đóng dashboard, đổi app hoặc tải lại app (iOS 16)\n\n**0.4.0**\n- Sửa lỗi SpringBoard crash (safe mode)\n- Tự tắt BMT nếu SpringBoard lỗi liên tục\n- App BMT mới: chọn bố cục 1 màn / 2 màn dọc / 2 màn ngang, chạm dấu + giữa ô để thêm app\n- Bố cục 2 màn ngang (trên / dưới) trên CarPlay\n\n**0.3.0**\n- Thêm app BMT trên màn hình chính\n- Icon BMT trên CarPlay, chạm vào là mở dashboard\n\n**0.2.0**\n- Thêm chế độ giả lập CarPlay trên iPhone\n\n**0.1.0**\n- Bản đầu tiên: App Bridge, chia 2 ô, bộ chọn app trên xe"
+          "markdown": "**0.6.0**\n- Một giao diện duy nhất cho iPhone và CarPlay, tự co giãn theo từng màn hình\n- Mở app BMT là vào giao diện BMT: chọn bố cục, chạm + để thêm app\n- Bỏ chế độ giả lập\n\n**0.5.0**\n- App BMT gọn hơn: chọn bố cục trước, rồi chạm dấu + giữa ô để thêm app\n- Kiểu hiển thị cho từng app: Auto / iPhone / iPad (Settings → BMT)\n- BMT có icon trong Settings\n- Dashboard tự co giãn theo màn hình của từng xe\n\n**0.4.1**\n- Sửa lỗi SpringBoard crash vài giây sau khi đóng dashboard, đổi app hoặc tải lại app (iOS 16)\n\n**0.4.0**\n- Sửa lỗi SpringBoard crash (safe mode)\n- Tự tắt BMT nếu SpringBoard lỗi liên tục\n- App BMT mới: chọn bố cục 1 màn / 2 màn dọc / 2 màn ngang, chạm dấu + giữa ô để thêm app\n- Bố cục 2 màn ngang (trên / dưới) trên CarPlay\n\n**0.3.0**\n- Thêm app BMT trên màn hình chính\n- Icon BMT trên CarPlay, chạm vào là mở dashboard\n\n**0.2.0**\n- Thêm chế độ giả lập CarPlay trên iPhone\n\n**0.1.0**\n- Bản đầu tiên: App Bridge, chia 2 ô, bộ chọn app trên xe"
         }
       ]
     }
