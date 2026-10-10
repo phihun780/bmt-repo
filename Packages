@@ -9,10 +9,10 @@ Section: Tweaks
 SileoDepiction: https://phihun780.github.io/bmt-repo/depictions/com.bmt.dash.json
 Icon: https://phihun780.github.io/bmt-repo/CydiaIcon.png
 Architecture: iphoneos-arm64
-Version: 0.8.1
-Installed-Size: 356
-Filename: debs/com.bmt.dash_0.8.1_iphoneos-arm64.deb
-Size: 55742
-MD5sum: 5816ca60348b8f1dbe921ba12eb77db5
-SHA1: 07edbee1f929c631d467c0c3faffbe664b252ce1
-SHA256: 813a908778ad7ed6cf9c60b93b27d8135444601a7704580224fb5e882d70ae4c
+Version: 0.8.2
+Installed-Size: 352
+Filename: debs/com.bmt.dash_0.8.2_iphoneos-arm64.deb
+Size: 54626
+MD5sum: 8016b061b9356c6dabfe82888d2c4a75
+SHA1: 27b4d60c3f9e05841548133dd2f3badc3330b460
+SHA256: 993ae94188459806196aaad68a316e66dca8d22f7e2639c4f3ff0c480319b744
