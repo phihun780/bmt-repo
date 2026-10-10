@@ -3,15 +3,15 @@ Label: BMT
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Sat, 10 Oct 2026 08:10:32 UTC
+Date: Sat, 10 Oct 2026 08:17:26 UTC
 Architectures: iphoneos-arm64
 Components: main
 Description: Nguồn tweak BMT cho CarPlay
 MD5Sum:
- 18491e5490d340954be3278492557ede 721 Packages
- 92c1ad799a0f5d85b69dee42dbc46286 483 Packages.gz
- a81278a1ef51e89238639d403bc61bc0 555 Packages.bz2
+ 44155078922da4977eeb0d678a0a5a84 721 Packages
+ 1556d8b4b0224f6946eace37b53ddc49 480 Packages.gz
+ 87e2f6f9773e0baa3d3ba6f705de9a11 549 Packages.bz2
 SHA256:
- 51be7c312f6fcc8830902855ca489b449a57eeb98dab843737fff03638eae70d 721 Packages
- 97d5dba02cd3446595f34118edd562636bcc17688714986ab9e783721207c9a0 483 Packages.gz
- e494e0dc2b93498a2b5199ce6e6035dc0d3a5b71f86737538d3c9bf8177c231d 555 Packages.bz2
+ d550ee7520b015d947b4be8ac31c72b924a016d6f2c99356ef7ebd71061bbde8 721 Packages
+ 724f13701e0bd260def47b3b739311da5e65c366660a0b99f28459e448397082 480 Packages.gz
+ 3cc6c33b5478ff4e105cb6757f1f77860813a948f5491ece6bb4e1a899381a2c 549 Packages.bz2
